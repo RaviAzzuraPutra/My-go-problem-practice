@@ -1,0 +1,15 @@
+2. Pertanyaan Coding: Mencari Bilangan Prima di Sebuah Array Bilangan
+
+Tujuan: Buatlah sebuah fungsi atau program yang dapat memproses sebuah array (atau list) berisi bilangan bulat positif, dan mengembalikan sebuah array baru yang hanya berisi bilangan-bilangan prima dari array input.
+Instruksi
+
+Buatlah sebuah fungsi bernama filter_prime_numbers yang menerima satu parameter:
+
+    numbers (array/list bilangan bulat): Array yang akan disaring.
+
+Fungsi harus mengembalikan sebuah array/list baru yang hanya berisi bilangan-bilangan dari numbers yang merupakan Bilangan Prima. Angka 1 dianggap bukan bilangan prima.
+Contoh Input dan Output
+Input (numbers)	Output (Array Bilangan Prima)
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]	[2, 3, 5, 7]
+[11, 12, 13, 14, 15, 16, 17]	[11, 13, 17]
+[4, 6, 8, 10, 12]	[]

@@ -1,0 +1,13 @@
+Tujuan: Buatlah sebuah fungsi atau program yang dapat menerima sebuah string sebagai input, kemudian mengembalikan string tersebut dalam keadaan terbalik (dari belakang ke depan).
+Instruksi
+
+Buatlah sebuah fungsi bernama reverse_string yang menerima satu parameter:
+
+    text (string): String yang akan dibalikkan.
+
+Fungsi harus mengembalikan string yang urutan karakternya terbalik.
+Contoh Input dan Output
+Input (text)	Output (String yang Dibalik)
+"katak"	"katak"
+"hello world"	"dlrow olleh"
+"coding"	"gnidoc"

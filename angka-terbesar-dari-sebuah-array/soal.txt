@@ -1,0 +1,2 @@
+Buatlah sebuah fungsi yang dapat menemukan angka terbesar dari sebuah array. 
+Contoh: Jika array yang diberikan adalah [1, 5, 3, 7, 2], maka hasilnya adalah 7.

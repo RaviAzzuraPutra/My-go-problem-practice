@@ -1,0 +1,20 @@
+Tujuan: Buatlah sebuah fungsi atau program yang dapat menentukan apakah sebuah string merupakan sebuah Palindrom atau bukan. Palindrom adalah kata, frasa, atau urutan karakter yang terbaca sama baik dari depan maupun dari belakang.
+Instruksi
+
+Buatlah sebuah fungsi bernama is_palindrome yang menerima satu parameter:
+
+    word (string): String yang akan diperiksa.
+
+Fungsi harus mengembalikan nilai boolean:
+
+    True, jika word adalah Palindrom.
+
+    False, jika word bukan Palindrom.
+
+Catatan: Dalam pemeriksaan ini, abaikan perbedaan huruf besar dan huruf kecil (case-insensitive) dan juga abaikan spasi atau tanda baca. Namun, untuk contoh di bawah, asumsikan string input sudah dalam bentuk tanpa spasi dan tanda baca, dan huruf kecil semua (kecuali input terakhir).
+Contoh Input dan Output
+Input (word)	Output (Boolean)
+"level"	True
+"radar"	True
+"algoritma"	False
+"Malam"	True

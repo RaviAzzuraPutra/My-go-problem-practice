@@ -1,0 +1,2 @@
+Buatlah sebuah fungsi untuk mengonversi bilangan desimal menjadi bilangan biner menggunakan 
+algoritma rekursif. Contoh: Bilangan decimal 222 sama dengan 11011110 dalam binary.

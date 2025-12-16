@@ -1,0 +1,3 @@
+Buatlah sebuah fungsi untuk mengurutkan angka dalam sebuah array dari yang terkecil ke yang 
+terbesar. Contoh: Jika array yang diberikan adalah [3, 1, 5, 2, 4], 
+maka hasilnya adalah [1, 2, 3, 4, 5].

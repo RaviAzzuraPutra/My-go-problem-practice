@@ -1,0 +1,2 @@
+Buatlah sebuah fungsi untuk mencari huruf yang paling sering muncul dalam sebuah kata. 
+Contoh: Jika kata yang diberikan adalah “hello”, maka hasilnya adalah huruf “l”.

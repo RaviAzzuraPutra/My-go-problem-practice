@@ -1,0 +1,3 @@
+Buatlah sebuah fungsi yang dapat menentukan apakah sebuah kata atau kalimat adalah palindrom 
+atau tidak. Palindrom adalah kata atau kalimat yang dapat dibaca sama dari depan maupun dari 
+belakang. Contoh: Jika kata yang diberikan adalah “level”, maka hasilnya adalah “palindrom”.
