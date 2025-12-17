@@ -1,0 +1,8 @@
+String Compression
+
+Deskripsi:
+Buat sebuah fungsi yang mengompresi string dengan menghitung jumlah kemunculan karakter berurutan. 
+Jika hasil kompresi tidak lebih pendek dari string asli, kembalikan string asli.
+
+Input: "aaabbbcccaaa"
+Output: "a3b3c3a3"  (lebih pendek dari asli)
