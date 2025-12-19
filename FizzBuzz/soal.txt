@@ -1,0 +1,7 @@
+Buatlah kode program Golang yang menampilkan deret angka dari 1 sampai 100, 
+dengan ketentuan tambahan:
+
+    Jika angka adalah kelipatan 3, cetak "FIZZ" sebagai penggantinya.
+    Jika angka adalah kelipatan 5, cetak "BUZZ" sebagai penggantinya.
+    Jika angka adalah kelipatan 3 dan 5, cetak "FIZZ-BUZZ" sebagai penggantinya.
+    Jika angka bukan kelipatan 3 maupun 5, cetak angka tersebut.

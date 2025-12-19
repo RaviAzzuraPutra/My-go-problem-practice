@@ -1,0 +1,34 @@
+Tantangan Matematika: "Siklus Digit Kaprekar Modifikasi"
+
+Buatlah sebuah fungsi yang menerima satu bilangan bulat positif n.
+
+Fungsi tersebut bekerja dengan langkah-langkah berikut:
+
+Ubah bilangan n menjadi kumpulan digit.
+
+Urutkan digit tersebut:
+
+    1. secara menaik (ascending)
+
+    2. secara menurun (descending)
+
+    3. Gabungkan kembali digit hasil pengurutan menjadi dua bilangan baru.
+
+    4. Hitung selisih antara bilangan hasil pengurutan menurun dan menaik.
+
+    5. Gunakan hasil selisih tersebut sebagai input berikutnya.
+
+    6. Proses dilakukan secara berulang hingga:
+
+    7. hasil selisih sama dengan input awal, atau
+
+    8. hasil selisih bernilai 0, atau
+
+    9. jumlah iterasi mencapai 100 kali.
+
+    10. Fungsi mengembalikan jumlah iterasi saat proses berhenti.
+
+    11. Jika iterasi mencapai 100 atau hasil akhir 0, fungsi mengembalikan 0.
+
+Tujuan: Melatih logika looping, rekursi, dan konversi tipe data 
+(integer ke array/string dan sebaliknya).
