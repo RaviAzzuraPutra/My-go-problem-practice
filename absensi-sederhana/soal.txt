@@ -1,0 +1,8 @@
+Sebuah sistem absensi mencatat jam masuk karyawan dalam format jam dan menit (HH:MM).
+Jam kerja dimulai pukul 08:00.
+
+Buat fungsi yang menerima waktu masuk dan:
+
+- Mengembalikan "On Time" jika datang tepat waktu atau lebih awal
+
+- Mengembalikan "Late" jika datang setelah jam 08:00

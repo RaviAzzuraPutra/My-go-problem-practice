@@ -1,0 +1,14 @@
+Sebuah sistem e-commerce memiliki saldo user dan harga produk.
+Buat fungsi yang menerima:
+
+- balance (saldo user)
+
+- price (harga produk)
+
+Fungsi harus:
+
+Mengembalikan "Success" jika saldo cukup dan transaksi valid
+
+Mengembalikan "Insufficient Balance" jika saldo tidak cukup
+
+Mengembalikan "Invalid Input" jika saldo atau harga bernilai negatif
