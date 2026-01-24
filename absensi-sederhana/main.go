@@ -16,8 +16,8 @@ func Attendance(employeeTime string) string {
 }
 
 func main() {
-	attendanceTime := "10.59"
-	attendanceTime2 := "06.01"
+	attendanceTime := "10:59"
+	attendanceTime2 := "06:01"
 
 	fmt.Println(Attendance(attendanceTime))
 	fmt.Println(Attendance(attendanceTime2))

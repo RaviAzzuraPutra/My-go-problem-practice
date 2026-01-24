@@ -1,0 +1,1 @@
+Soal ini menguji kemampuan untuk menggabungkan dua array sekaligus lalu mengurutkannya dari kecil ke besar.

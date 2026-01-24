@@ -1,0 +1,2 @@
+Soal ini menguji kemampuan dalam menggunakan fungsi array dan filter. 
+Kamu diminta untuk memisahkan angka ganjil dan genap dari array yang diberikan.
