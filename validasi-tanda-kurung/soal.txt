@@ -1,0 +1,5 @@
+Buatlah sebuah fungsi yang menerima input berupa string yang berisi karakter-karakter kurung 
+seperti (), [], dan {}. Fungsi tersebut harus mengembalikan nilai 
+boolean: true jika urutan kurung valid 
+(terbuka dan tertutup dengan benar serta dalam urutan yang pas), 
+dan false jika tidak.

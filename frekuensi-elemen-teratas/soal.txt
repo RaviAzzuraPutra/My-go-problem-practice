@@ -1,0 +1,10 @@
+Diberikan sebuah array berisi ID produk (integer) yang sering dibeli, 
+contoh: [1, 2, 2, 3, 1, 1, 4, 5, 2].
+Buatlah fungsi yang mengembalikan K produk yang paling sering muncul.
+
+    Input: products = [1, 1, 1, 2, 2, 3], k = 2
+
+    Output: [1, 2] (Karena produk 1 muncul 3 kali dan produk 2 muncul 2 kali).
+
+Tujuan: Menguji kemampuan dalam menggunakan Hash Map (untuk menghitung frekuensi) 
+dan algoritma pengurutan (sorting) atau penggunaan Priority Queue.
