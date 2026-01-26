@@ -1,0 +1,14 @@
+soal 1
+buatlah gunakan decode dari json ke slice of map[string]string lalu tampilkan data 
+dalam loop hanya dari vendor samsung saja
+
+soal 2
+buatlah gunakan decode dari json ke slice of object dari struct lalu tampilkan data dalam 
+loop hanya dari vendor sony saja
+
+soal 3
+buatlah struct tentang anime lalu buatlah slice of object dari struct minimal terdapat 5 
+data lalu encode ke JSON dan tampilkan hasilnya
+
+soal 4
+Hitung total jumlah ponsel per vendor, Urutkan vendor berdasarkan jumlah ponsel (descending)
