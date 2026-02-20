@@ -1,0 +1,49 @@
+Deskripsi:
+Buatlah program yang menerima input ukuran matrix M baris dan N kolom, kemudian membaca elemen matrix, 
+lalu sebuah koordinat (r, c) yang menunjukkan posisi tertentu (indeks baris dan kolom mulai dari 0). 
+Program harus menghitung jumlah semua elemen yang bertetangga langsung secara orthogonal 
+(atas, bawah, kiri, kanan) dengan elemen di (r, c). Jika tetangga berada di luar matrix, abaikan. 
+Tampilkan hasil penjumlahannya.
+
+Input Format:
+
+    Baris pertama: dua bilangan bulat M dan N (ukuran matrix).
+
+    M baris berikutnya: masing-masing berisi N bilangan bulat.
+
+    Baris terakhir: dua bilangan bulat r dan c (koordinat).
+
+Contoh Input:
+text
+
+3 3
+1 2 3
+4 5 6
+7 8 9
+1 1
+
+Contoh Output:
+text
+
+20
+
+Penjelasan:
+Posisi (1,1) bernilai 5. Tetangga orthogonal: atas (0,1)=2, bawah (2,1)=8, kiri (1,0)=4, kanan (1,2)=6. 
+Jumlah = 2+8+4+6 = 20.
+
+Contoh Input Lain (tepi):
+text
+
+2 2
+10 20
+30 40
+0 0
+
+Contoh Output:
+text
+
+50
+
+Penjelasan: Tetangga (0,0): kanan (0,1)=20, bawah (1,0)=30. Jumlah = 50.
+
+Koordinat Ditentukan User
